@@ -3,7 +3,7 @@ Currently only installs node.
 
 Usage:
 
-	wget -r --no-parent [url-of-raw-directory]
+	wget -r --no-parent [url-of-raw-directory] # OR git clone [git-url]
 	cd openshift-install
 	# Open install.sh and make sure INSTALL_HOME is correct
 	# Open openshift.conf and make sure all values are correct for environment
